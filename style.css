@@ -73,3 +73,10 @@
 	width: 80px;
 	cursor: pointer;
 }
+
+.music{
+	width: 90%;
+	position: absolute;
+	top: 67%;
+	left: 65%;
+}
